@@ -1,6 +1,6 @@
 # ⚡ JavaScript Bookmarklet Collection
 
-A collection of powerful, browser-based automation tools for **Facebook, Instagram, Slack, and GitHub**. These scripts allow you to automate repetitive tasks, download media, and manage your social accounts directly from your browser—no extensions required.
+@A collection of powerful, browser-based automation tools for **Facebook, Instagram, Slack, and GitHub**. These scripts allow you to automate repetitive tasks, download media, and manage your social accounts directly from your browser—no extensions required.
 
 ## 🚀 How to Install
 
